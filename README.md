@@ -1,4 +1,10 @@
 ### Hi !eu sou o Bruno👋
+👨  Sobre mim<br>
+
+-🎓  Atualmente estou estudando muito  JS, HTML e css<br>
+-💡  Gostode desenvolver we<br
+
+
 
 <!--  
 **BrunodaSilvaLeite/BrunodaSilvaLeite** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
