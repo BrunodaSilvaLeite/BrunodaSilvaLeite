@@ -1,5 +1,5 @@
 ### Hi !eu sou o Bruno👋
-<hr  style="color:orange">
+<hr >
 👨  Sobre mim<br>
 
 -🎓
