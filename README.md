@@ -4,8 +4,6 @@
 
 -🎓
  Atualmente estou estudando muito  JS, HTML e css<br>
--💡
- Gosto de desenvolver web<br>
 -⚡
  Quando estou livre, busco esportes e jogos<br>
 -📫
