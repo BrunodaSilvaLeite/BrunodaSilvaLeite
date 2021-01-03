@@ -6,4 +6,4 @@
 -📫 Para entrar em contato você pode enviar um e-mail para bruno.leite.silva02@Outlook.com.\
 
 ## 🛠Pilha de Tecnologia 
-JavaScript &nbsp; Node.js &nbsp; HTML5 &nbsp; CSS &nbsp; Bootstrap &nbsp; Git &nbsp; GitHub &nbsp; Visual Studio Code &nbsp;
+JavaScript &nbsp; Node.js &nbsp; HTML5 &nbsp; CSS &nbsp; Bootstrap &nbsp; Git &nbsp; GitHub &nbsp; Visual Studio &nbsp Markdown;
