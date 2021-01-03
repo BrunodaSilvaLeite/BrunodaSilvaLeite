@@ -10,3 +10,7 @@
  Para entrar em contato você pode enviar um e-mail para bruno.leite.silva02@Outlook.com.<br>
 
 
+🛠  Tech Stack
+JavaScript ,Node.js ,HTML5
+CSS, Bootstrap, Git,
+GitHub,Visual Studio Code
