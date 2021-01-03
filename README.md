@@ -11,6 +11,6 @@
 
 
 🛠Pilha de Tecnologia<br>
-JavaScript ,Node.js ,HTML5
+JavaScript ,Node.js ,HTML5,
 CSS, Bootstrap, Git,
 GitHub,Visual Studio Code
