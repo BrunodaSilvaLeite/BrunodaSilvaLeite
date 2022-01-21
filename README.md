@@ -5,6 +5,12 @@
 -⚡ Quando estou livre, busco esportes e jogos \
 -📫 Para entrar em contato você pode enviar um e-mail para bruno.leite.silva02@Outlook.com.
   
+### ⚙️ &nbsp;GitHub Analytics
+<a href="https://github.com/BrunodaSilvaLeite">
+ <img height="180em" width="49%" src="https://github-readme-stats-eight-theta.vercel.app/api?username=BrunodaSilvaLeite&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=BrunodaSilvaLeite&layout=compact&langs_count=4&theme=react"/>
+</a>  
+  
 ## 🔧 Pilha de tecnologias &#58;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-FEAE32?style=flat&logoColor=fff&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007ACC?style=flat&logo=typescript)&nbsp;
@@ -18,3 +24,4 @@
 ![Markdown](https://img.shields.io/badge/-Markdown-333333?style=flat&logoColor=fff&logo=markdown)&nbsp;\
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)
+
