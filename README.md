@@ -1,7 +1,7 @@
 ### Hi !eu sou o Bruno👋
 
 ## 👨 &nbsp;Sobre mim
--🎓 Atualmente estou estudando muito JS, node , react , TypeScript,mysql, mongodb,mongoose,typeorm, prisma \
+-🎓 Atualmente estou estudando muito JS, node , react , TypeScript, mysql, mongodb, mongoose, typeorm, prisma \
 -⚡ Quando estou livre, busco esportes e jogos \
 -📫 Para entrar em contato você pode enviar um e-mail para bruno.leite.silva02@Outlook.com.
   
