@@ -30,5 +30,6 @@
 ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=MySQL)&nbsp;
 ![TypeORM](https://img.shields.io/badge/-TypeORM-A41A32?style=flat&logo=TypeORM)&nbsp;
 ![Prisma](https://img.shields.io/badge/-Prisma-0b3147?style=flat&logo=Prisma)&nbsp;\
+![Java](https://img.shields.io/badge/-java-0b3147?style=flat&logo=java)&nbsp;\
 ![Scss](https://img.shields.io/badge/-Scss-c6538c?style=flat&logo=Scss)&nbsp;
 
